@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bostonhacks-222122",
+  "private_key_id": "a7527061c95f013e9f2465dd355c7a69fb60b481",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQ8fFjcCW0MptD\nc9eit28Lf0K03fO3VDCAdTe8yagose3yxjqwygE9J0AI9ExqCDVC5dcFUVtBJcsN\nVrjAIi2wBm5stoiXV+l2BxDylw52PEfPcqsTZjBCpvwRfH79FfjfoNsULo8RzwL+\nLJ6gGMNI9alYq2JKSZx1f/vkip+MhL/L8R5Cr2UIDbeaovLOXhmYKOBNBYFuDc0f\nKYyLR/cgIUYFGinUJqM++00KyuuFxrc3bWUqsTWM1e5EOGE//VN/LYCWICGNHrro\nmLRRwMKiOKgHImV/q/0wRyx0DEABacvNuFrRWxGPNsDQhjlr0q5lM1p0sEJHG6HM\nbF7TfIiZAgMBAAECggEABnaq4Z6YgVMyG7YRAkbrt86qAO+qGGO8VFz2lRp6ieJn\nL/lohguEWktFNIG003A0OuuNPpbeXHePfnbOTvM/t+WbCOCPUnnfuPei/ejPrmH9\nqVyCD57mTfQzG/9elkmrDI/soa/cW9ABkbH4/jmF4P3od9u6tf2Xn3LkFz/Ki7gz\n4375pMAXmh+kz+BPDMmscJjLoLXYWFJc8lM9gcI7YTvRACRUsWqxIyJPEc3Xhm7M\n0UvVuKiDx/yBfOiIjO4Gb7ZIKagbQVX1yKp6LzBQ0n7Gyatiszzua8XN3UTq10Lk\n2G6YKHHq7b9PMozR8Uaxlndm8CLfqeEd0BtmsE2V4QKBgQD1vLQuFkkCC4+HiSbM\n8q5Xzwys/3eOl6OJwAREPouTrTQZG1iS97yqUHwbdEvS9BhnQgNbemiB/rbVvTOH\nQ32maay+HZSH/JZeCjKK0bOuGhDFn77wjxulCkaNnxvQSadbtRmJBjPxPMC8/oLd\n4t2zKq5q1NXx2/u9MywabGCG3QKBgQDZq+CdNC2aWfJpCViXB59wWL0LoY0kUOVY\nwFpsSb0AmgEubwST3L6BlRSXr/kT0fSdkCThImf2P7YEkN2bQPNsYW3rI5Iimbk3\nPoC9nrb1s+W5GROa09Hhss/XGUf4/1kyI3dufrSMXvljo1+k2JkHX29KxL+nSMN/\nwu/FqSiG7QKBgQC00RCHpPA9qAIJyfqZ7awpgnmiRixT6PJ15qt9B8SuelEOdFe9\ndLsHW0em7/DnHaNjP2i3BCAoHyOrrJdg3WF0dOed0Kg9U7fVJI3CJcGfxyA2OnBG\nFBdUXnZBuSS/I6MY0O4kLENGK9zqdCAZYtidADfs9gUi/SqEMkYufzabpQKBgQCe\nhleKBcMkg1dQ+daD/7A1UNs1Ck3RYfz1uvjfnoBAXOh5Wa76xKwVkW4y3pzGu4Sr\n75t8PuN56oJ0JtDNzeq6RuaXdgtqmYvTWPjHoDxdCsxGFqY5fwR+nAxT+fx5sfXS\n1xOW7D4vcMetsgDo/DnOrclOqaVufkaq2FxpFr4GLQKBgQC9zZ51fWpzHxFkL/MV\ngWHJGwDnyO5GNsJhvmqdwWlVlfhfIzpqaEHL8Oz5qTR8rTOYyNpu5aKwHfxTeY8x\n6sffkicUJTT1ZYwWXXUOtLIGqZjqDHamIfAm3xr91PxpUuFdR3sa3ZPixY4G+AGu\nKEiXNp46lpPGaDRK4bQRmWdFAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "krishnapatel1@bostonhacks-222122.iam.gserviceaccount.com",
+  "client_id": "107548130057477573998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/krishnapatel1%40bostonhacks-222122.iam.gserviceaccount.com"
+}
