@@ -1,15 +1,38 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Flask Tutorial</title>
-  </head>
-  <body>
-    {% extends "template.html" %}
-    {% block content %}
-    <h1> My First Try Using Flask </h1>
-    <p> Flask is Fun </p>
-    
-    {% endblock %}
-  </body>
+<html>
+<head>
+    <meta charset=utf-8/>
+    <link rel="stylesheet" type="text/css" href="../static/background.css">
+    <script>
+        var loadFile = function (event) {
+            var output = document.getElementById('output');
+            output.src = URL.createObjectURL(event.target.files[0]);
+        };
+    </script>
+    <title>Sidewalk Verificator</title>
+</head>
+<body>
+<h1>BOS 311</h1>
+<hr>
+<h2>Submit Broken Sidewalk Report</h2>
+<hr>
+<br>
+<pre>       <input type="file" accept="image/*" onchange="loadFile(event)"></pre>
+<pre>       <img id="output"/></pre>
+<pre>       Description <input type="text"></pre>
+<pre>       Share with public? <input type="checkbox"></pre>
+<br>
+<h3>Reporter (will not be shared with the public; leave blank to submit anonymously</h3>
+<hr>
+<br>
+<pre>       First name  <input type="text"></pre>
+<pre>       Last name   <input type="text"></pre>
+<pre>       Email       <input type="text"></pre>
+<pre>       Phone       <input type="text"></pre>
+<br>
+<form action="/action_page.php">
+    <pre>           <button type="submit">Submit</button></pre>
+</form>
+
+</body>
 </html>
